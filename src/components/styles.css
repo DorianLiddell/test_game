@@ -1,0 +1,15 @@
+canvas {
+    display: block;
+    margin: 20px auto;
+    width: 800px;
+    height: 600px;
+}
+
+.hero-menu {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: white;
+    padding: 10px;
+    border: 1px solid black;
+}
